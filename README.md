@@ -1,2 +1,3 @@
 # Knuth-Morris-Pratt-Algorithm
-KMP - A string match algorithm
+
+Input 2 words splitted by space or newline, the program will search word2 in word1.
