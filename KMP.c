@@ -8,6 +8,7 @@ int matchPositions[MAXL];
 
 int stringMatch();
 void makeFailure(int);
+
 int main () {
 	int k, matchNum;
 	scanf("%s %s", major, patt);
